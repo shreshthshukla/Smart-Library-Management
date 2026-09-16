@@ -95,7 +95,7 @@ LibraryManagementSystem/
 ### 1. Clone the repository
 
 ```bash
-git clone <(https://github.com/shreshthshukla/Smart-Library-Management.git)>
+git clone <https://github.com/shreshthshukla/Smart-Library-Management.git>
 ```
 
 ### 2. Open the project
